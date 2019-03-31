@@ -1,0 +1,12 @@
+<suite name ="regressionsuite">
+   
+    <test name="regressiontest">
+
+           <classes>
+     <class name ="jenkings.maventestNG.loginverification"></class>
+
+            </classes>
+
+     </test>
+
+</suite>

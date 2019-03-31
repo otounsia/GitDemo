@@ -1,0 +1,12 @@
+<suite name ="smoketest">
+   
+    <test name="smoke">
+
+           <classes>
+     <class name ="testNGsctipts.homepageverifications"></class>
+
+            </classes>
+
+     </test>
+
+</suite>
