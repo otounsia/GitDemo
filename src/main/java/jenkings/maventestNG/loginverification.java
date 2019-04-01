@@ -19,7 +19,8 @@ public class loginverification {
 
 	
 	driver.manage().window().maximize();
-	
+	driver.get("https://www.facebook.com/");
+	driver.close();
 	driver.get("https://www.amazon.com/");
 	
 	driver.findElement(By.id("nav-your-amazon")).click();
